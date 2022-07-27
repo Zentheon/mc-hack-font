@@ -1,4 +1,4 @@
-> # mc-hack-font
+![Text Preview](./text-preview.png)
 > A 32x font for Minecraft based on [Hack](https://github.com/source-foundry/Hack)
 
 ## Installing
